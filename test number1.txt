@@ -1,3 +1,6 @@
+cette modification est realisée sur la branche master
+je veux savoir comment travailler avec les branches
+
 excersise nb 1
 j'essaie de comprendre
 comment fonctionne cette
