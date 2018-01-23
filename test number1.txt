@@ -1,14 +1,24 @@
 excersise nb 1
+
 j'essaie de comprendre
+
 comment fonctionne cette
 logiciel mais le profeseur est trop
+
 c'est incroyable la vitesse de cet profeseur, il va tellement vite
 acceleré et j'ai la dificulté
+
 à le suivre, il a pris
 trop de poudre blanche et 
+
 il se promene à 200 km/h
 pardon 250 km/h
+
 gellé au tapis
 je continue à essayer de comrpendre que est-ce que
+
 le profeseur dit dans son anglais
 tres accéleré
+
+cette modification est faite en untilisant la branche 1 
+je veux apprendre comment ça fonctionne
